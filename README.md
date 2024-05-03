@@ -23,7 +23,7 @@ Essas são algumas das tecnologias com as quais estou familiarizado e continuo a
 ## Contato
 
 - 📫 Você pode me contatar via e-mail: apolo_henriquerr@hotmail.com
-- 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin/) para acompanhar meu trabalho e experiência.
+- 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/[apolo](https://www.linkedin.com/in/apolo-henrique-rangel-rezende/)) para acompanhar meu trabalho e experiência.
 
 Fique à vontade para explorar minhas habilidades clicando nos ícones acima ou entrar em contato comigo para discutir oportunidades de colaboração!
 
