@@ -8,6 +8,11 @@ Sou um apaixonado Desenvolvedor Web, buscando sempre aprender e explorar novas t
 - 💬 Sempre aberto a discussões e colaborações em projetos interessantes. Sinta-se à vontade para entrar em contato comigo!
 
 ## Minhas Habilidades
+<div>
+  <a href="https://github.com/duhoshina">
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apolorezende&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=apolorezende&show_icons=true&theme=dark&include_all_commits=true&account_private=true"/>
+</div>
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,vue,git,github,docker,linux,flutter,figma&fill=white)](https://skillicons.dev)
 
